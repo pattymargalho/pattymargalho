@@ -1,0 +1,57 @@
+body {
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blanchedalmond;
+}
+
+header {
+    width: 100%;
+    margin: 0 auto;
+    background-color: cadetblue;
+    position: fixed;
+    z-index: 10;
+}
+h1, header h2 {
+    text-align: center;
+}
+article {
+    text-align: center;
+}
+.html-section {
+    display: inline-block;
+    width: 400px;
+    margin: 40px;
+    position: relative;
+    top: 120px;
+    box-sizing: border-box;
+}
+
+.CSS-section {
+    display: inline-block;
+    width: 400px;
+    margin: 40px;
+    position: relative;
+    top: 120px;
+    box-sizing: border-box;
+}
+
+table {
+    border: 2px solid black;
+    
+}
+
+thead {
+    background-color: rgb(145, 143, 143);
+}
+
+td {
+    border-top: 1px solid black;
+    text-align: left;
+}
+
+aside {
+    position: relative;
+    top: 90px;
+    margin: 40px;
+}
+
